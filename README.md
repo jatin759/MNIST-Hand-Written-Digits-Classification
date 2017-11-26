@@ -18,4 +18,6 @@ Question3-
 Additional Info:
 matrix z is saved in the file z.mat. The matrix z contains the data in the transformed space.
 
-P.S : Make sure that 'data.txt' and 'label.txt' files are in the same folder as of code files.
+P.S : 
+1. Make sure that 'data.txt' and 'label.txt' files are in the same folder as of code files.
+2. For quetion's details, see 'l4.pdf'.
